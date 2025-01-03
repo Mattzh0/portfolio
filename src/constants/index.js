@@ -125,27 +125,27 @@ export const myProjects = [
       border: '0.2px solid rgba(208, 213, 221, 1)',
       boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
     },
-    spotlight: 'assets/spotlight3.png',
+    spotlight: './assets/spotlight3.png',
     tags: [
       {
         id: 1,
         name: 'Python',
-        path: 'assets/python.png',
+        path: './assets/python.png',
       },
       {
         id: 2,
         name: 'PyTorch',
-        path: 'assets/pytorch.png',
+        path: './assets/pytorch.png',
       },
       {
         id: 3,
         name: 'NumPy',
-        path: 'assets/numpy.svg',
+        path: './assets/numpy.svg',
       },
       {
         id: 4,
         name: 'Pandas',
-        path: 'assets/pandas.png',
+        path: './assets/pandas.png',
       },
     ],
   },
@@ -162,22 +162,22 @@ export const myProjects = [
       border: '0.2px solid #0E2D58',
       boxShadow: '0px 0px 60px 0px #2F67B64D',
     },
-    spotlight: 'assets/spotlight4.png',
+    spotlight: './assets/spotlight4.png',
     tags: [
       {
         id: 1,
         name: 'Python',
-        path: 'assets/python.png',
+        path: './assets/python.png',
       },
       {
         id: 2,
         name: 'JavaScript',
-        path: 'assets/javascript.png',
+        path: './assets/javascript.png',
       },
       {
         id: 3,
         name: 'Flask',
-        path: 'assets/flask.svg',
+        path: './assets/flask.svg',
       },
     ],
   },
@@ -242,7 +242,7 @@ export const workExperiences = [
     pos: 'Mentor',
     duration: '2024 to 2025 (Present)',
     title: 'Guided freshman and sophomore students in mastering computer science and mathematics concepts for their classes, including data structures, algorithms, calculus, and statistics.',
-    icon: '/assets/sbcs.svg',
+    icon: './assets/sbcs.svg',
     animation: 'clapping',
   },
   {
