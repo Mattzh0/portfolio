@@ -34,18 +34,18 @@ export const myProjects = [
       '',
     href: 'https://github.com/Mattzh0/mattquest',
     texture: '/textures/project/project1.mp4',
-    logo: '/assets/cube.png',
+    logo: 'assets/cube.png',
     logoStyle: {
       backgroundColor: '#2A1816',
       border: '0.2px solid #36201D',
       boxShadow: '0px 0px 60px 0px #AA3C304D',
     },
-    spotlight: '/assets/spotlight1.png',
+    spotlight: 'assets/spotlight1.png',
     tags: [
       {
         id: 1,
         name: 'React.js',
-        path: '/assets/react.svg',
+        path: 'assets/react.svg',
       },
       {
         id: 2,
@@ -55,17 +55,17 @@ export const myProjects = [
       {
         id: 3,
         name: 'JavaScript',
-        path: '/assets/javascript.png',
+        path: 'assets/javascript.png',
       },
       {
         id: 4,
         name: 'PostgreSQL',
-        path: '/assets/postgresql.png',
+        path: 'assets/postgresql.png',
       },
       {
         id: 5,
         name: 'NodeJS',
-        path: '/assets/nodejs.png',
+        path: 'assets/nodejs.png',
       },
     ],
   },
@@ -75,18 +75,18 @@ export const myProjects = [
     subdesc: '',
     href: '',
     texture: '/textures/project/project2.mp4',
-    logo: '/assets/cube.png',
+    logo: 'assets/cube.png',
     logoStyle: {
       backgroundColor: '#13202F',
       border: '0.2px solid #17293E',
       boxShadow: '0px 0px 60px 0px #2F6DB54D',
     },
-    spotlight: '/assets/spotlight2.png',
+    spotlight: 'assets/spotlight2.png',
     tags: [
       {
         id: 1,
         name: 'React.js',
-        path: '/assets/react.svg',
+        path: 'assets/react.svg',
       },
       {
         id: 2,
@@ -96,17 +96,17 @@ export const myProjects = [
       {
         id: 3,
         name: 'MongoDB',
-        path: '/assets/mongodb.svg',
+        path: 'assets/mongodb.svg',
       },
       {
         id: 4,
         name: 'NodeJS',
-        path: '/assets/nodejs.png',
+        path: 'assets/nodejs.png',
       },
       {
         id: 5,
         name: 'Jest',
-        path: '/assets/jest.png',
+        path: 'assets/jest.png',
       },
     ],
   },
@@ -117,7 +117,7 @@ export const myProjects = [
       '',
     href: 'https://github.com/Mattzh0/clothing_segmentation',
     texture: '/textures/project/project3.mp4',
-    logo: '/assets/cube.png',
+    logo: 'assets/cube.png',
     logoStyle: {
       backgroundColor: '#60f5a1',
       background:
@@ -125,12 +125,12 @@ export const myProjects = [
       border: '0.2px solid rgba(208, 213, 221, 1)',
       boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
     },
-    spotlight: '/assets/spotlight3.png',
+    spotlight: 'assets/spotlight3.png',
     tags: [
       {
         id: 1,
         name: 'Python',
-        path: '/assets/python.png',
+        path: 'assets/python.png',
       },
       {
         id: 2,
@@ -140,12 +140,12 @@ export const myProjects = [
       {
         id: 3,
         name: 'NumPy',
-        path: '/assets/numpy.svg',
+        path: 'assets/numpy.svg',
       },
       {
         id: 4,
         name: 'Pandas',
-        path: '/assets/pandas.png',
+        path: 'assets/pandas.png',
       },
     ],
   },
@@ -156,18 +156,18 @@ export const myProjects = [
       '',
     href: 'https://devpost.com/software/seawolf-searcher',
     texture: '/textures/project/project4.mp4',
-    logo: '/assets/cube.png',
+    logo: 'assets/cube.png',
     logoStyle: {
       backgroundColor: '#0E1F38',
       border: '0.2px solid #0E2D58',
       boxShadow: '0px 0px 60px 0px #2F67B64D',
     },
-    spotlight: '/assets/spotlight4.png',
+    spotlight: 'assets/spotlight4.png',
     tags: [
       {
         id: 1,
         name: 'Python',
-        path: '/assets/python.png',
+        path: 'assets/python.png',
       },
       {
         id: 2,
@@ -177,7 +177,7 @@ export const myProjects = [
       {
         id: 3,
         name: 'Flask',
-        path: '/assets/flask.svg',
+        path: 'assets/flask.svg',
       },
     ],
   },
@@ -188,18 +188,18 @@ export const myProjects = [
       '',
     href: 'https://github.com/Shameed4/ReinforcementLearning',
     texture: '/textures/project/project5.mp4',
-    logo: '/assets/cube.png',
+    logo: 'assets/cube.png',
     logoStyle: {
       backgroundColor: '#1C1A43',
       border: '0.2px solid #252262',
       boxShadow: '0px 0px 60px 0px #635BFF4D',
     },
-    spotlight: '/assets/spotlight5.png',
+    spotlight: 'assets/spotlight5.png',
     tags: [
       {
         id: 1,
         name: 'Python',
-        path: '/assets/python.png',
+        path: 'assets/python.png',
       },
       {
         id: 2,
@@ -209,7 +209,7 @@ export const myProjects = [
       {
         id: 3,
         name: 'NumPy',
-        path: '/assets/numpy.svg',
+        path: 'assets/numpy.svg',
       },
     ],
   },
@@ -233,7 +233,7 @@ export const workExperiences = [
     pos: 'Event Coordinator | Former Secretary',
     duration: '2022 to 2025 (Present)',
     title: 'Maintained organization in a student organization that has so far delivered 30+ immersive workshops and events, showcasing Deep Learning applications. Facilitated SBU Weeks of Welcome (WoW) events to aid incoming freshmen with integrating into campus life. Started and expanded a student Discord community for the organization, which currently has over 650 members.',
-    icon: '/assets/aic.svg',
+    icon: 'assets/aic.svg',
     animation: 'victory',
   },
   {
@@ -242,7 +242,7 @@ export const workExperiences = [
     pos: 'Mentor',
     duration: '2024 to 2025 (Present)',
     title: 'Guided freshman and sophomore students in mastering computer science and mathematics concepts for their classes, including data structures, algorithms, calculus, and statistics.',
-    icon: '/assets/sbcs.svg',
+    icon: 'assets/sbcs.svg',
     animation: 'clapping',
   },
   {
@@ -251,7 +251,7 @@ export const workExperiences = [
     pos: 'Wordpress Developer',
     duration: '2023',
     title: 'Worked alongside a Stony Brook Genetics PhD student in developing the back-end for a WordPress website tailored for assessing the symptoms of sleep apnea patients.',
-    icon: '/assets/sbu.svg',
+    icon: 'assets/sbu.svg',
     animation: 'salute',
   },
   {
@@ -260,7 +260,7 @@ export const workExperiences = [
     pos: 'Volunteer Hospital Associate',
     duration: '2019 to 2022',
     title: 'Worked with a team of healthcare staff, including physicians and nurses, to oversee patient care and handle various critical tasks before and during the pandemic, such as timely delivery of meals and essential supplies. Managed the linen inventory for the designated hospital floor.',
-    icon: '/assets/northwellhealth.png',
+    icon: 'assets/northwellhealth.png',
     animation: 'clapping',
   },
 ];
